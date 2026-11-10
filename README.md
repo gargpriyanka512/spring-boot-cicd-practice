@@ -1,1 +1,1 @@
-git --versiongi"# spring-boot-cicd-practice" 
+"# spring-boot-cicd-practice" 
